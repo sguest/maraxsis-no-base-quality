@@ -58,7 +58,7 @@ jobs:
         uses: montudor/action-zip@v0.1.1
       - name: Zip output
         if: ${{ steps.release-please.outputs.release_created }}
-        run: zip -qq -r ../MaraxsisNoBaseQuality+${{ steps.release-please.outputs.major }}.${{ steps.release-please.outputs.minor }}.${{ steps.release-please.outputs.patch }}.zip MaraxsisNoBaseQuality
+        run: zip -qq -r ../MaraxsisNoBaseQuality_${{ steps.release-please.outputs.major }}.${{ steps.release-please.outputs.minor }}.${{ steps.release-please.outputs.patch }}.zip MaraxsisNoBaseQuality
         working-directory: dist
       - name: Upload Release Asset
         if: ${{ steps.release-please.outputs.release_created }}
