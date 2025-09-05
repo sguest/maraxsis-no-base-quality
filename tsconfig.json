@@ -1,0 +1,15 @@
+{
+    "$schema": "https://raw.githubusercontent.com/TypeScriptToLua/TypeScriptToLua/master/tsconfig-schema.json",
+    "extends": "factorio-types/tsconfig.base.json",
+    "compilerOptions": {
+        "baseUrl": ".",
+        "outDir": "dist/MaraxsisNoBaseQuality",
+        "rootDir": "src",
+    },
+    "tstl": {
+        "luaLibImport": "none",
+    },
+    "include": [
+        "src/**/*.ts"
+    ]
+}

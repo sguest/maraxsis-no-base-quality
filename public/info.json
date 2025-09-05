@@ -1,0 +1,15 @@
+{
+    "name": "MaraxsisNoBaseQuality",
+    "version": "1.0.0",
+    "title": "Maraxsis - No Base Quality",
+    "author": "Aronson",
+    "contact": "https://github.com/sguest/maraxsis-no-base-quality/issues",
+    "homepage": "https://github.com/sguest/maraxsis-no-base-quality",
+    "factorio_version": "2.0",
+    "description": "Simple mod that removes the base quality from the Planet Maraxsis Hydro plant",
+    "dependencies": [
+        "base >= 2.0.0",
+        "space-age >= 2.0.0",
+        "maraxsis >= 1.0.0"
+    ]
+}
