@@ -1,6 +1,6 @@
 {
   "name": "maraxsis-no-base-quality",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Remove base quality from Planet Maraxsis Hydro Plant",
   "scripts": {
     "build": "run-p build:*",

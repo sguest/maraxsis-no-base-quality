@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.3](https://github.com/sguest/maraxsis-no-base-quality/compare/maraxsis-no-base-quality-v0.0.2...maraxsis-no-base-quality-v0.0.3) (2025-09-05)
+
+
+### Bugfixes
+
+* release-please zip ([b32a3d8](https://github.com/sguest/maraxsis-no-base-quality/commit/b32a3d8735ca43343ac508d710a8bcd495aa6fec))
+
 ## [0.0.2](https://github.com/sguest/maraxsis-no-base-quality/compare/maraxsis-no-base-quality-v0.0.1...maraxsis-no-base-quality-v0.0.2) (2025-09-05)
 
 
